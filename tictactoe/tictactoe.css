@@ -10,10 +10,6 @@ body {
   padding-top: 20px;
 }
 
-/* .headerbox {
-  background-color: #1c6758;
-} */
-
 .players {
   display: flex;
   justify-content: space-around;
