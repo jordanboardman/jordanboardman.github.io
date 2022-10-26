@@ -2187,11 +2187,6 @@ input[type="radio"] + label:before {
   opacity: 1;
 }
 
-.image.thumb:hover:before {
-  background: url("images/"), url("images/overlay.png");
-  opacity: 1;
-}
-
 .image img {
   border-radius: 0.35em;
   display: block;
@@ -3391,4 +3386,9 @@ h2 {
 .resumebutton {
   display: flex;
   justify-content: center;
+}
+
+li {
+  list-style: none;
+  padding-top: 20px;
 }
