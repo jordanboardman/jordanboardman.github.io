@@ -3371,3 +3371,24 @@ i {
 .skilltext {
   margin-top: 50px;
 }
+
+.contactlist {
+  list-style: none;
+  display: flex;
+  padding-left: 88px;
+}
+
+.contactbox {
+  display: flex;
+  justify-content: flex-start;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.resumebutton {
+  display: flex;
+  justify-content: center;
+}
