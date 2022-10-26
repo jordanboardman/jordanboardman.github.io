@@ -2289,6 +2289,8 @@ ul.icons {
   cursor: default;
   list-style: none;
   padding-left: 0;
+  display: flex;
+  justify-content: center;
 }
 
 ul.icons li {
@@ -3360,4 +3362,12 @@ i {
 .footerpics {
   display: flex;
   justify-content: center;
+}
+
+.skillbox {
+  margin-top: 75px;
+}
+
+.skilltext {
+  margin-top: 50px;
 }
