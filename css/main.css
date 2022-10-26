@@ -3356,3 +3356,8 @@ h3 {
 i {
   font-size: -webkit-xxx-large;
 }
+
+.footerpics {
+  display: flex;
+  justify-content: center;
+}
