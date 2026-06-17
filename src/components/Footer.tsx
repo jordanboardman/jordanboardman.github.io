@@ -26,11 +26,10 @@ const Footer: React.FC = () => {
 				</ul>
 			</div>
 			<div className="footerpics">
-				<ul className="copyright">
-					<li>
-						<a href="http://html5up.net">Design: HTML5 UP</a>
-					</li>
-				</ul>
+				<p>
+					This site was built with React and TypeScript with some help from
+					Github CoPilot.
+				</p>
 			</div>
 		</footer>
 	);
