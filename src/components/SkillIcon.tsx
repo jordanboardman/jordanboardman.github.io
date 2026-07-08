@@ -7,8 +7,8 @@ interface SkillIconProps {
 
 const SkillIcon: React.FC<SkillIconProps> = ({ icon, title }) => {
 	return (
-		<li>
-			<i className={icon} title={title}></i>
+		<li className="skill-item">
+			<i className={icon} title={title} aria-label={title}></i>
 		</li>
 	);
 };

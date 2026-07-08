@@ -14,6 +14,11 @@ const Header: React.FC = () => {
 		{ icon: "devicon-angularjs-plain", title: "Angular" },
 		{ icon: "devicon-redux-original", title: "Redux" },
 		{ icon: "devicon-nodejs-plain-wordmark", title: "Node" },
+		{ icon: "devicon-java-plain", title: "Java" },
+		{ icon: "devicon-spring-plain-wordmark", title: "Spring Boot" },
+		{ icon: "devicon-html5-plain-wordmark", title: "HTML" },
+		{ icon: "devicon-css3-plain-wordmark", title: "CSS" },
+		{ icon: "devicon-githubcodespaces-plain", title: "GitHub Copilot" },
 	];
 
 	const bottomSkills: Skill[] = [
@@ -23,6 +28,10 @@ const Header: React.FC = () => {
 		{ icon: "devicon-express-original-wordmark", title: "Express" },
 		{ icon: "devicon-python-plain-wordmark", title: "Python" },
 		{ icon: "devicon-git-plain-wordmark", title: "Git" },
+		{ icon: "devicon-github-original-wordmark", title: "GitHub" },
+		{ icon: "devicon-docker-plain-wordmark", title: "Docker" },
+		{ icon: "devicon-postman-plain", title: "Postman" },
+		{ icon: "devicon-amazonwebservices-plain-wordmark", title: "AWS" },
 	];
 
 	return (
@@ -38,14 +47,9 @@ const Header: React.FC = () => {
 					>
 						<img src="./images/Wedding:Pro Pic Small.png" alt="pic of Jordan" />
 					</a>
-					<div>
+					<div className="header-title">
 						<h1 className="titlebox">
 							<b>Fullstack Software Developer</b>
-						</h1>
-					</div>
-					<div className="skilltext">
-						<h1>
-							<u>Skills</u>
 						</h1>
 					</div>
 				</div>
