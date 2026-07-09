@@ -11,7 +11,7 @@ This portfolio contains:
 - a breakdown of my personal and professional projects
 - links to my GitHub and contact info
 - a clean, modern React + TypeScript UI
-- a little bit of help from Github Copilot
+- a little bit of help with tedious tasks from Github Copilot
 
 It’s designed to be fast, polished, and easy to maintain.
 
@@ -24,9 +24,5 @@ It’s designed to be fast, polished, and easy to maintain.
 ## Deployment
 
 This portfolio is deployed to **GitHub Pages** for easy hosting and quick updates.
-
-The project is configured to build into the `docs/` folder, which is the GitHub Pages deployment directory for this repository.
-
-## Want More?
 
 Thanks for visiting! ✨
