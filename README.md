@@ -25,6 +25,8 @@ It’s designed to be fast, polished, and easy to maintain.
 
 This portfolio is deployed to **GitHub Pages** for easy hosting and quick updates.
 
+The project is configured to build into the `docs/` folder, which is the GitHub Pages deployment directory for this repository.
+
 ## Want More?
 
 Thanks for visiting! ✨
